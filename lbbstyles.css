@@ -1,0 +1,23 @@
+BODY
+{
+	font-family:Verdana, Sans-Serif;
+	font-size:9pt;
+	font-weight:bold;
+}
+
+TD 
+{
+	font-size:9pt;
+}
+
+A
+{
+	color:#7c090e;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+A:HOVER 
+{
+	text-decoration:underline;
+}
